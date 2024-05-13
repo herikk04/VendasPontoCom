@@ -1,4 +1,4 @@
-# VendasPontoCom_V2
+# VendasPontoCom
 
 Este repositório contém o código fonte do projeto "VendasPontoCom_V2", um site de compras desenvolvido durante a disciplina de Programação Web do 3° ano do Ensino Médio Técnico no IFG Campus Inhumas, no curso técnico de Informática para Web. O projeto foi realizado em conjunto com um colega de classe chamado Thiago.
 

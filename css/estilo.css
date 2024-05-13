@@ -1,0 +1,77 @@
+div#cabecalho {
+    padding: 0.5em 0;
+    text-align: center;
+    color: black;
+    background-color: #9162b5;
+}
+div#menu {
+    padding: 0em;
+    float: left;
+    width: 15em;
+}
+div#menu h1 {
+    padding: 1em;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+div#tituloDoModulo {
+    padding: 0;
+    margin-left: 15em;
+}
+div#tituloDoModulo h1 {
+    font-size: x-large;
+}
+div#mensagens {
+    padding: 0;
+    margin-left: 15em;
+}
+div#mensagens p {
+    font-weight: bold;
+    font-style: italic;
+    color: #a919fc;
+}
+div#conteudo {
+    /*padding: 0;*/
+    padding-top: 0px;
+    padding-right: 2px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-left: 15em;
+}
+div#rodape{
+    padding: 0.2em 0;
+    clear: both;
+    background-color: #deb3ff   ;
+    text-align: center;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse:separate;
+    padding: 1px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+body{
+    font-family: sans-serif;
+    color: #101213;
+    background-color: #e7ccfc;
+    padding: 0;
+    margin: 0;
+}
+
+h1#topo {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+fieldset {
+    margin-top: 0.5em;
+    margin-right: 0.0323em;
+    margin-bottom:  0.5em;
+    margin-left: 0em;
+}

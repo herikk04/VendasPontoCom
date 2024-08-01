@@ -29,5 +29,5 @@ Para executar este projeto, você precisará configurar um servidor PHP e um ban
 ## Autores
 
 - **Herik Kauan De Assis**
-- **Thiago Ferreira dos Santos**
+- [**Thiago Ferreira dos Santos**](https://github.com/haterkkj?tab=repositories)
 
